@@ -27,7 +27,7 @@ You need install dot net 8.
 - [Dot Net 8](https://dotnet.microsoft.com/pt-br/download/dotnet/8.0)
 
 
-Clone projeto
+Clone project to you local PC
 
 - Url to clone - https://github.com/RaphaZ99/basic-memory-cache.git
 
