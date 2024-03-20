@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "BasicMemoryCache.Controllers.ViaCepController",
+    "Method": "GetByZipCode",
+    "RelativePath": "api/ViaCep/v1/zipCode/{zipCode}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "zipCode",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
